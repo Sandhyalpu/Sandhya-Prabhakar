@@ -6,3 +6,4 @@ Edit Option
 image option
 status option
 colous option
+dark mode
